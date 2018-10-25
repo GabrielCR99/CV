@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4b6ddb</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+    <color name="color_pattern">#000000</color>
+    <color name="foreground_material_light">#000000</color>
+    <color name="colorPressedHighlight">#000000</color>
+    <color name="background_material_light">#ffffff</color>
+    <color name="holo_light_primary">#000000</color>
+    <color name="primary_material_dark_1">#e70505</color>
+    <color name="primary_dark_material_dark_1">#e42b2b</color>
+    <color name="black">#1a1ab1</color>
+</resources>
